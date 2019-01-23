@@ -1,4 +1,4 @@
-# [2019-01-23] Upgrade to Laravel 5.6
+# [2019-01-23] Upgrade to Laravel 5.7
 
 ## Laravel Roles Permissions Admin - Spatie version
 
